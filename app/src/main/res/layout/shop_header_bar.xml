@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shop_bar_layout"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:background="@color/white">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/img_shop_logo"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/merchant"/>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="8dp">
+            <TextView
+                android:id="@+id/tv_shop_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="City Thai"
+                android:textColor="@color/black"
+                android:textSize="16dp"/>
+            <TextView
+                android:id="@+id/tv_shop_address1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="14435 Ventura Blvd"
+                android:textColor="@color/gray1"
+                android:textSize="12dp"/>
+            <TextView
+                android:id="@+id/tv_shop_address2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sheman Oaks, CA 91423"
+                android:textColor="@color/gray1"
+                android:textSize="12dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gray1"/>
+</LinearLayout>

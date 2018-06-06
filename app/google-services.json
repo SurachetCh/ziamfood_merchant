@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "243001098529",
+    "firebase_url": "https://ziamfoodmerchant.firebaseio.com",
+    "project_id": "ziamfoodmerchant",
+    "storage_bucket": "ziamfoodmerchant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243001098529:android:fb6b91eabee8d0e5",
+        "android_client_info": {
+          "package_name": "revenue_express.ziamfood_merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243001098529-73anhhme5pie79bqq5oe1q57ojp51f83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFL__gXx1bqw4FBiEZGbt8BIFzYfa-xc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

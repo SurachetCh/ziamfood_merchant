@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ziamfood Merchant</string>
+    <!--<string name="id_shop">105</string>-->
+    <string name="Id_shop">Shop ID</string>
+    <string name="Base_URL">https://dev.ziamthai.com/api.php/v2/</string>
+    <string name="URL_login">merchant/login</string>
+    <string name="URL_list_order">merchant/list_order</string>
+    <string name="URL_confirm_reading">merchant/cashier_confirm_reading</string>
+    <string name="URL_order_detail">shop_order/info_html</string>
+    <string name="URL_order_info">merchant/get_order</string>
+    <string name="URL_confirm_cooking">merchant/cashier_confirm_cooking</string>
+    <string name="URL_confirm_finish">merchant/kitchen_confirm_finish</string>
+
+    <string name="access_token">sd23g125sdf1gc10b3yhik58l4o4</string>
+    <string name="order_list">Ordet List</string>
+    <string name="cooking">Cooking</string>
+    <string name="summary">Summary</string>
+    <string name="more">More</string>
+    <string name="menu">Menu</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="complete">COMPLETE</string>
+    <string name="finish">FINISH</string>
+    <string name="new_text">New</string>
+    <string name="new_order">New Order</string>
+    <string name="user">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="status_connect">Status connect</string>
+    <string name="disconnection">Please connect internet!</string>
+    <string name="setting">Setting</string>
+    <string name="close">Close</string>
+
+
+</resources>
